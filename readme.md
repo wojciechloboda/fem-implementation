@@ -6,7 +6,8 @@ boost/math for calculating integrals
 eigen for linear algebra
 imgui, implot for gui and plotting
 
-![image](https://user-images.githubusercontent.com/46354460/221706624-12413c11-a371-4508-b56b-c4efe06ff94e.png)
+![image](https://user-images.githubusercontent.com/46354460/221707091-3f8966ab-65ad-4b8b-9119-3aa1ce799bcc.png)
+
 
 
 
