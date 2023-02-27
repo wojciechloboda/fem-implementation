@@ -1,4 +1,4 @@
-Problem: 4.2 Wibracje akustyczne warstwy materiału.
+Wibracje akustyczne warstwy materiału - rozwiązanie równania różniczkowego metodą elementów skończonych.
 sformulowanie_wariacyjne.pdf - Sformułowanie wariacyjne znajduje się w pliku.
 fem.exe - Program rozwiązujący równanie i tworzący wykres.
 katalog source zawiera wszystkie pliki zrodlowe,
