@@ -1,7 +1,5 @@
-Wibracje akustyczne warstwy materiału - rozwiązanie równania różniczkowego metodą elementów skończonych.
-sformulowanie_wariacyjne.pdf - Sformułowanie wariacyjne znajduje się w pliku.
-fem.exe - Program rozwiązujący równanie i tworzący wykres.
-katalog source zawiera wszystkie pliki zrodlowe,
-w szczegolnosci plik źródłowe z implementacją fem dla problemu - solver.hpp oraz main.cpp w którym tworzony jest interfejs użytkownika.
+Acustic vibrations of a fabric layer - solution for differential equation using finite element method.
+sformulowanie_wariacyjne.pdf - variational formulation of a equation.
+fem.exe - program that solves equation and draws a graph of a solution function.
 
 
