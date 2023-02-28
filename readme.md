@@ -1,3 +1,5 @@
+# Finite element method implementation
+
 Acustic vibrations of a fabric layer - solution for differential equation using finite element method.
 
 sformulowanie_wariacyjne.pdf - variational formulation of a equation.
